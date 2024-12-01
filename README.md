@@ -25,8 +25,8 @@ This project implements a real-time facial emotion detection system using OpenCV
 ### **1. Clone the Repository**
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/facial-emotion-detection.git
-cd facial-emotion-detection
+git clone https://github.com/Shashank452/Facial_Eotion_Detection.git
+cd Facial_Eotion_Detection
 ```
 ### **2. Install Dependencies**
 Install the required Python libraries using the requirements.txt file:
